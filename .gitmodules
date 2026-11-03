@@ -1,0 +1,4 @@
+[submodule "teamwork-attendance"]
+	path = teamwork-attendance
+	url = https://github.com/Mihnea8848/teamwork-attendance.git
+	branch = fixes/all
